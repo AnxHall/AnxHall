@@ -59,7 +59,9 @@
 
 ###
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:49.72%;position:relative;"><iframe width="360" height="179" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8mb43l"></iframe></div><p><a href="https://imgflip.com/gif/8mb43l">via Imgflip</a></p></div>
+<!-- My meme -->
+
+<div style="width:360px;max-width:100%;float:right;"><div style="height:0;padding-bottom:49.72%;position:relative;"><iframe width="360" height="179" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8mb43l"></iframe></div><p><a href="https://imgflip.com/gif/8mb43l">via Imgflip</a></p></div>
 
 ###
 
@@ -112,10 +114,10 @@
 </a>
 
 ## 📘 My top open source projects
-
+<br/>
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/AnxHall/zoauth"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=zoauth&theme=prussian&hide_border=true"></a>
   <a href="https://github.com/AnxHall/c29"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=c29&theme=prussian&hide_border=true"></a>
   <a href="https://github.com/AnxHall/obs-voicemeeter-integration"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=obs-voicemeeter-integration&theme=prussian&hide_border=true"></a>
@@ -124,31 +126,31 @@
   <a href="https://github.com/AnxHall/population-simulation-web"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=population-simulation-web&theme=prussian&hide_border=true"></a>
   <a href="https://github.com/AnxHall/automatic-git-commits"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=automatic-git-commits&theme=prussian&hide_border=true"></a>
   <a href="https://github.com/AnxHall/zms"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=zms&theme=prussian&hide_border=true"></a>
-</p>
+</p> -->
 
 <p align="left">
   <a href="https://github.com/AnxHall?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## 📕 Top projects I've contributed to
-
+<br/>
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=prussian&hide_border=true&show_owner=true"></a>
   <a href="https://github.com/shenuja/himandher"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=shenuja&repo=himandher&theme=prussian&hide_border=true&show_owner=true"></a>
   <a href="https://github.com/Zyplos/discord-readme-badge"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=prussian&hide_border=true&show_owner=true"></a>
   <a href="https://github.com/th-ch/youtube-music"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=th-ch&repo=youtube-music&theme=prussian&hide_border=true&show_owner=true"></a>
-</p>
+</p> -->
 
 <p align="left">
   <a href="https://github.com/AnxHall?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 ## 🛠️ My favorite tools
-
+<br/>
 ### 👨‍💻 Programming and markup languages
-
-<p>
+<br/>
+<!-- <p>
     <a href="https://github.com/search?q=user%3AAnxHall+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AAnxHall+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AAnxHall+language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=color-swatch&logoColor=white"></a>
@@ -161,32 +163,32 @@
     <a href="https://github.com/search?q=user%3AAnxHall+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AAnxHall+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AAnxHall+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-</p>
+</p> -->
 
 ### 🧰 Frameworks and libraries
-
-<p>
+<br/>
+<!-- <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-</p>
+</p> -->
 
 ### 🗄️ Databases and cloud hosting
-
-<p>
+<br/>
+<!-- <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-</p>
+</p> -->
 
 ### 💻 Software and tools
-
-<p>
+<br/>
+<!-- <p>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
@@ -197,4 +199,4 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+</p> -->
