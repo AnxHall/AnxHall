@@ -11,9 +11,7 @@ Howdy! Bem vindo
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/AnxHall">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=m3cjj9xwlwodsvnfma5lovuzv&count={1}" alt="Spotify recently played"  />
-  </a>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=m3cjj9xwlwodsvnfma5lovuzv&count={count})
 </div>
 
 ###
