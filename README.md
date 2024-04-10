@@ -12,7 +12,7 @@ Howdy! Bem vindo
 
 <div align="center">
   <a href="https://open.spotify.com/user/AnxHall">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=m3cjj9xwlwodsvnfma5lovuzv&unique={true|1|on|yes}" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=m3cjj9xwlwodsvnfma5lovuzv&count={1}" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -66,8 +66,8 @@ Howdy! Bem vindo
 
 <!-- My meme -->
 
-<div align="left">   https://imgflip.com/gif/8mb43l
-    <img src="https://imgflip.com/gif/8mb43l" height="50" />
+<div align="left">
+    <img src="https://imgflip.com/gif/8mb43l" height="340" />
 </div>
 
 
