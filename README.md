@@ -4,8 +4,9 @@ Howdy! Bem vindo
 </h3>
   
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubunto+Mono&weight=416&duration=2500&pause=500&color=5F00FF&center=true&multiline=true&random=false&width=435&lines=Minha+evolu%C3%A7%C3%A3o+e+constante;Permita+me+apresentar+novamente" alt="Typing SVG" /></a>
-
+</h3>
 ###
 
 <div align="center">
