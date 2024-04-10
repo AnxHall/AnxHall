@@ -1,6 +1,6 @@
-<h3 style="text-align: center;">
-Howdy 👋! Bem vindo 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" alt="Wave GIF">
+<h3 align="center">
+  Howdy 👋! Bem vindo 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -61,7 +61,10 @@ Howdy 👋! Bem vindo
 
 <!-- My meme -->
 
-<div style="width:360px;max-width:100%;float:right;"><div style="height:0;padding-bottom:49.72%;position:relative;"><iframe width="360" height="179" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8mb43l"></iframe></div><p><a href="https://imgflip.com/gif/8mb43l">via Imgflip</a></p></div>
+<div align="left">   https://imgflip.com/gif/8mb43l
+   <img src="[https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge](https://imgflip.com/gif/8mb43l)" height="50" />
+</div>
+
 
 ###
 
