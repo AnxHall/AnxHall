@@ -1,11 +1,11 @@
-<h3 align="center">
+<h3 style="text-align: center;">
 Howdy 👋! Bem vindo 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" alt="Wave GIF">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stacker+Developer;Permita-me+apresentar+novamente" alt="Typing SVG" /></a></a>
+<p style="text-align: center;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Full+Stacker+Developer;Permita-me+apresentar+novamente" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
