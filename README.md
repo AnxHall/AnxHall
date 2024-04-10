@@ -1,12 +1,10 @@
 <h3 align="center">
 Howdy! Bem vindo 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 </h3>
   
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stacker+Developer;Permita-me+apresentar+novamente" alt="Typing SVG" /></a></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubunto+Mono&weight=416&duration=2500&pause=500&color=5F00FF&center=true&multiline=true&random=false&width=435&lines=Minha+evolu%C3%A7%C3%A3o+e+constante;Permita+me+apresentar+novamente" alt="Typing SVG" /></a>
 
 ###
 
