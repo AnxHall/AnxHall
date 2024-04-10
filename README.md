@@ -1,5 +1,5 @@
 <h3 align="center">
-  Howdy 👋! Bem vindo 
+Howdy 👋! Bem vindo 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -151,8 +151,10 @@
 
 ## 🛠️ My favorite tools
 <br/>
+
 ### 👨‍💻 Programming and markup languages
 <br/>
+
 <!-- <p>
     <a href="https://github.com/search?q=user%3AAnxHall+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AAnxHall+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
