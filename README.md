@@ -1,19 +1,25 @@
-<h3 align="center">
-Howdy 👋! Bem vindo 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h2 align="center">Howdy! Bem vindo 👋 /h2>
 
+<h3 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+  
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stacker+Developer;Permita-me+apresentar+novamente" alt="Typing SVG" /></a></a>
 </p>
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/AnxHall">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=AnxHall&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://open.spotify.com/intl-pt/track/1wsZ0cp5He4Wm4yohNjwIs?si=4aa7915d4cbb4f19"><img width="32px" title="Spotify" src="https://i.imgur.com/UTw76o4.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
@@ -62,7 +68,7 @@ Howdy 👋! Bem vindo
 <!-- My meme -->
 
 <div align="left">   https://imgflip.com/gif/8mb43l
-   <img src="[https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge](https://imgflip.com/gif/8mb43l)" height="50" />
+    <img src="[https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge](https://imgflip.com/gif/8mb43l)" height="50" />
 </div>
 
 
@@ -205,3 +211,4 @@ Howdy 👋! Bem vindo
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p> -->
+  
