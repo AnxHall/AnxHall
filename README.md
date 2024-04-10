@@ -8,13 +8,13 @@ Howdy! Bem vindo
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubunto+Mono&weight=410&duration=2500&pause=500&color=5F00FF&center=true&multiline=true&random=false&width=435&lines=Minha+evolu%C3%A7%C3%A3o+e+constante;Permita+me+apresentar+novamente" alt="Typing SVG" /></a>
 </h3>
 
-###
+<!-- Spoti do Fy -->
 
 <div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=m3cjj9xwlwodsvnfma5lovuzv&count={count})
+  <a href="https://open.spotify.com/user/AnxHall">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=m3cjj9xwlwodsvnfma5lovuzv&count={count}" alt="Spotify recently played"  />
+  </a>
 </div>
-
-###
 
 <!-- Social icons section -->
 
@@ -64,8 +64,10 @@ Howdy! Bem vindo
 
 <!-- My meme -->
 
-<div align="left">
-    <img src="https://imgflip.com/gif/8mb43l" height="340" />
+<div align="right">
+  <a href="https://imgflip.com">
+    <img src="https://imgflip.com/gif/8mb43l" alt="MEME"/>
+  </a>
 </div>
 
 
