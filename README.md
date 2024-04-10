@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stacker+Developer;Permita-me+apresentar+novamente" alt="Typing SVG" /></a></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stacker+Developer;Permita-me+apresentar+novamente" alt="Typing SVG" /></a></a>
 </p>
 
 <!-- Social icons section -->
@@ -24,17 +24,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://artist.link/zobro23"><img width="32px" title="SongLink" src="https://i.imgur.com/pfBS0xC.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://open.spotify.com/artist/2sK8v6VqxrapoNfrnFGa5r"><img width="32px" title="Spotify" src="https://i.imgur.com/UTw76o4.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://music.apple.com/us/artist/zobro23/1654967789"><img width="32px" title="Apple Music" src="https://i.imgur.com/JvX3OIp.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://music.amazon.in/artists/B0BMM2MHZ2/zobro23"><img width="32px" title="Amazon Music" src="https://i.imgur.com/HFzqj4h.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://youtube.com/@zobro23"><img width="32px" title="YouTube" src="https://i.imgur.com/oPN1zuZ.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://soundcloud.com/zobro23"><img width="32px" title="SoundCloud" src="https://i.imgur.com/jAIlfwk.png"></a>
+  <a href="https://open.spotify.com/intl-pt/track/1wsZ0cp5He4Wm4yohNjwIs?si=4aa7915d4cbb4f19"><img width="32px" title="Spotify" src="https://i.imgur.com/UTw76o4.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
@@ -43,40 +33,22 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://github.com/Zo-Bro-23?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Zo-Bro-23?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Zo-Bro-23?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Zo-Bro-23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/Zo-Bro-23/view-count-badge">
-    <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/Zo-Bro-23/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
-  <a href="https://npmjs.com/~zo-bro-23"><img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/5506-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
-</p>
-
-<p align="center">
-<a href="https://discord.com/users/659610243990290524">
-<img title="Discord Presence" src="https://discord-readme-badge.zohan.tech/api?id=659610243990290524">
-</a>
-</p>
-
-<p align="center">
-  <a href="https://www.last.fm/user/ZoBro23"><img width="" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dracula">
-  </a>
-</p>
-
+  <a href="https://github.com/AnxHall?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AnxHall?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/AnxHall?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AnxHall?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    
 ## 📊 Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zo-Bro-23&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnxHall&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=Zo-Bro-23&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Zo-Bro-23's github stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=Zo-Bro-23&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="AnxHall's github stats" /></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zo-Bro-23's streak" src="https://streak-stats.demolab.com/?user=Zo-Bro-23&theme=onedark&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AnxHall's streak" src="https://streak-stats.demolab.com/?user=Zo-Bro-23&theme=onedark&hide_border=true"/>
   </a>
 </p>
 
