@@ -10,15 +10,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://linkedin.com/in/zobro23"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
+  <a href="https://linkedin.com/in/AnxHall"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@zobro23"><img width="32px" title="Medium" src="https://i.imgur.com/8G9R1ep.png"/></a>
+  <a href="https://medium.com/@AnxHall"><img width="32px" title="Medium" src="https://i.imgur.com/8G9R1ep.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://fiverr.com/zobro23"><img width="32px" title="Fiverr" src="https://i.imgur.com/OyA8gsq.png"></a>
+  <a href="https://fiverr.com/Anxhall"><img width="32px" title="Fiverr" src="https://i.imgur.com/OyA8gsq.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://npmjs.com/~zo-bro-23"><img width="32px" title="NPM" src="https://i.imgur.com/zi1vRF3.png"></a>
+  <a href="https://npmjs.com/~AnxHall"><img width="32px" title="NPM" src="https://i.imgur.com/zi1vRF3.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.thingiverse.com/zobro23/"><img width="32px" title="Thingiverse" src="https://i.imgur.com/sjvRVzs.png"></a>
+  <a href="https://www.thingiverse.com/AnxHall/"><img width="32px" title="Thingiverse" src="https://i.imgur.com/sjvRVzs.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
@@ -29,50 +29,100 @@
 </p>
 <br/>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://github.com/AnxHall?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AnxHall?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/AnxHall?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AnxHall?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+</div>
+
+###
+
+<img align="right" height="50" src="https://imgflip.com/gif/8mb43l"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
     
 ## 📊 Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnxHall&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnxHall&theme=tokyonight" alt="AnxHall's github stats" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=Zo-Bro-23&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="AnxHall's github stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=AnxHall&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="AnxHall's github stats" /></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AnxHall's streak" src="https://streak-stats.demolab.com/?user=Zo-Bro-23&theme=onedark&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AnxHall's streak" src="https://streak-stats.demolab.com/?user=AnxHall&theme=onedark&hide_border=true"/>
   </a>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Zo-Bro-23&layout=compact&hide_border=true&theme=tokyonight" /></a>
-<a href="https://wakatime.com/@ZoBro23"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AnxHall&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<a href="https://wakatime.com/@AnxHall"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=AnxHall&layout=compact&hide_border=true&theme=tokyonight" /></a>
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zo-Bro-23&theme=apprentice">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnxHall&theme=apprentice">
   </a>
 </p>
 
-<a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+<a href="https://github.com/AnxHall#gh-light-mode-only" align="center">
+  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=AnxHall&repo=AnxHall&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
 
-<a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<a href="https://github.com/AnxHall#gh-dark-mode-only" align="center">
+  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=AnxHall&repo=AnxHall&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
 
 ## 📘 My top open source projects
@@ -80,18 +130,18 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/Zo-Bro-23/zoauth"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zoauth&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/c29"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=c29&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/obs-voicemeeter-integration"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=obs-voicemeeter-integration&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/batch-file-bot"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=batch-file-bot&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/zoauth-demoApp"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zoauth-demoApp&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/population-simulation-web"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=population-simulation-web&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/automatic-git-commits"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=automatic-git-commits&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/zms"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zms&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/AnxHall/zoauth"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=zoauth&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/AnxHall/c29"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=c29&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/AnxHall/obs-voicemeeter-integration"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=obs-voicemeeter-integration&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/AnxHall/batch-file-bot"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=batch-file-bot&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/AnxHall/zoauth-demoApp"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=zoauth-demoApp&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/AnxHall/population-simulation-web"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=population-simulation-web&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/AnxHall/automatic-git-commits"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=automatic-git-commits&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/AnxHall/zms"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=AnxHall&repo=zms&theme=prussian&hide_border=true"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/Zo-Bro-23?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/AnxHall?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## 📕 Top projects I've contributed to
@@ -105,7 +155,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/Zo-Bro-23?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://github.com/AnxHall?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 ## 🛠️ My favorite tools
@@ -113,18 +163,18 @@
 ### 👨‍💻 Programming and markup languages
 
 <p>
-    <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=color-swatch&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAnxHall+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAnxHall+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAnxHall+language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=color-swatch&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAnxHall+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAnxHall+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3AAnxHall+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAnxHall+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAnxHall+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAnxHall+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAnxHall+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAnxHall+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAnxHall+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
