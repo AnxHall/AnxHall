@@ -67,7 +67,7 @@ Howdy! Bem vindo
 
 <!-- My meme -->
 
-<img align="right" height="150" src="https://i.imgflip.com/8mb43l.gif"  />
+<img align="right" height="100" src="https://i.imgflip.com/8mb43l.gif"  />
 
 ###
 
