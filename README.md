@@ -10,20 +10,6 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://linkedin.com/in/AnxHall"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@AnxHall"><img width="32px" title="Medium" src="https://i.imgur.com/8G9R1ep.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://fiverr.com/Anxhall"><img width="32px" title="Fiverr" src="https://i.imgur.com/OyA8gsq.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://npmjs.com/~AnxHall"><img width="32px" title="NPM" src="https://i.imgur.com/zi1vRF3.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.thingiverse.com/AnxHall/"><img width="32px" title="Thingiverse" src="https://i.imgur.com/sjvRVzs.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-<br/>
-
-<p align="center">
   <a href="https://open.spotify.com/intl-pt/track/1wsZ0cp5He4Wm4yohNjwIs?si=4aa7915d4cbb4f19"><img width="32px" title="Spotify" src="https://i.imgur.com/UTw76o4.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
