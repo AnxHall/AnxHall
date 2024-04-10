@@ -12,7 +12,7 @@ Howdy! Bem vindo 👋
 
 <div align="center">
   <a href="https://open.spotify.com/user/AnxHall">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=AnxHall&count=1&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=m3cjj9xwlwodsvnfma5lovuzv&unique={true|1|on|yes}" alt="Spotify recently played"  />
   </a>
 </div>
 
