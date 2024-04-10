@@ -1,5 +1,5 @@
 <h3 align="center">
-Howdy! Bem vindo 👋
+Howdy! Bem vindo 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
   
@@ -67,7 +67,7 @@ Howdy! Bem vindo 👋
 <!-- My meme -->
 
 <div align="left">   https://imgflip.com/gif/8mb43l
-    <img src="[https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge](https://imgflip.com/gif/8mb43l)" height="50" />
+    <img src="https://imgflip.com/gif/8mb43l" height="50" />
 </div>
 
 
@@ -113,13 +113,7 @@ Howdy! Bem vindo 👋
   </a>
 </p>
 
-<a href="https://github.com/AnxHall#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=AnxHall&repo=AnxHall&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
-</a>
-
-<a href="https://github.com/AnxHall#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=AnxHall&repo=AnxHall&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</a>
+![snake animation](https://github.com/AnxHall/AnxHall/blob/output/github-contribution-grid-snake2.svg)
 
 ## 📘 My top open source projects
 <br/>
