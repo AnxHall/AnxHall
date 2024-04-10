@@ -96,9 +96,9 @@
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AnxHall&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AnxHall&layout=compact&hide_border=true&theme=tokyonight" /></a>
 <a href="https://wakatime.com/@AnxHall"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=AnxHall&layout=compact&hide_border=true&theme=tokyonight" /></a>
-</p>
+</p> -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
